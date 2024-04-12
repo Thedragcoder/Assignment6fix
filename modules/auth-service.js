@@ -1,7 +1,7 @@
 // require bcrypt
-const bcrypt = require('bcryptjs'); 
+const bcrypt = require("bcryptjs"); 
 // require mongoose module 
-const mongoose = require('mongoose'); 
+const mongoose = require("mongoose"); 
 // Add the "dotenv" module 
 require('dotenv').config();
 
